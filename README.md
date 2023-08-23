@@ -6,14 +6,14 @@ coming-soon
 A simple coming soon page, built using [create-react-app](https://github.com/facebook/create-react-app).
 
 <p align="center">
-  <img src="./docs/scrot.png" alt="Coming soon page" width="738">
+  <img src="./docs/screenshot.png" alt="Coming soon page" width="738">
 </p>
 
-**Note:** I created this as an exercise when I was learning React. So please be mindful of many things that are considered "non-optimal".
+**Note:** This is only a cooming soon page for a future project".
 
 ## Getting started
 
-### Installation
+### Installation and Contributes
 
 1. Clone this repository
 2. `cd coming-soon` to go into the project root
