@@ -1,27 +1,14 @@
-import React from "react";
-import ReactDOM from "react-dom";
-import Preloader from "./components/Preloader/Preloader";
-import Timer from "./components/Countdown/Timer";
-import Optin from "./components/Optin/Optin";
+import React from 'react';
+import ReactDOM from 'react-dom';
+import './styles/reset.css';
+import "./styles/fonts.css";
+import "./index.css";
+import App from './App';
+import * as serviceWorker from './serviceWorker';
 
-import "./styles.css";
+ReactDOM.render(<App />, document.getElementById('root'));
 
-function App() {
-  return (
-    <div className="App">
-      <div className="container">
-        <h1>
-          Website
-          <br />
-          Coming Soon
-        </h1>
-        <Timer />
-        <Optin />
-        <Preloader />
-      </div>
-    </div>
-  );
-}
-
-const rootElement = document.getElementById("root");
-ReactDOM.render(<App />, rootElement);
+// If you want your app to work offline and load faster, you can change
+// unregister() to register() below. Note this comes with some pitfalls.
+// Learn more about service workers: https://bit.ly/CRA-PWA
+serviceWorker.unregister();
