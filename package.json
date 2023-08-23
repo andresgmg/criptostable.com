@@ -1,8 +1,9 @@
 {
-  "name": "coming-soon",
-  "version": "0.1.0",
+  "name": "coming-soon-criptostable",
+  "version": "0.1",
   "private": true,
-  "homepage": "https://arkn98.github.io/coming-soon",
+  "homepage": ".",
+  "proxy": ".",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
