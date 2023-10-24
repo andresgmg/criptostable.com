@@ -1,4 +1,4 @@
-coming-soon
+criptostable.com coming-soon
 ======================
 [![deploy](https://github.com/arkn98/coming-soon/workflows/deploy/badge.svg)](https://github.com/arkn98/coming-soon/actions?query=workflow%3Adeploy)
 [![license](https://img.shields.io/github/license/arkn98/coming-soon)](LICENSE)
