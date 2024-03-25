@@ -12,13 +12,13 @@ class App extends React.Component {
             <a href="https://www.criptostable.com/">CRIPTOSTABLE.COM</a>
           </div>
           <div className="social">
-            <a href="https://github.com/andresgmg" title="GitHub" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/andresgmg/criptostable.com" title="GitHub" target="_blank" rel="noopener noreferrer">
               View the repo here <IconGithub className="icon" />
             </a>
           </div>
         </div>
         <div className="content">
-          <a href="https://www.criptostable.com" title="GitHub" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.criptostable.com" title="LogoAi" target="_blank" rel="noopener noreferrer">
             <img src={LogoAi} alt="Logo" width={100} height={100} />
           </a>
           <div className="title-holder">
