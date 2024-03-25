@@ -17,16 +17,16 @@ A simple coming soon page, built using [create-react-app](https://github.com/fac
 
 1. Clone this repository
 2. `cd coming-soon` to go into the project root
-3. `yarn` to install dependencies
+3. `npm install` to install dependencies
 
 ### Running locally
 
-1. `yarn start` to start the hot-reloading server
+1. `npm run dev` to start the hot-reloading server
 2. open `http://localhost:3000` on your browser
 
 ### Building
 
-1. `yarn build` to build the app
+1. `npm build` to build the app
 2. Copy the contents of the `build` folder and serve it with your own server
 
 ## Thanks
