@@ -1,13 +1,7 @@
 criptostable.com coming-soon
 ======================
-[![deploy](https://github.com/arkn98/coming-soon/workflows/deploy/badge.svg)](https://github.com/arkn98/coming-soon/actions?query=workflow%3Adeploy)
-[![license](https://img.shields.io/github/license/arkn98/coming-soon)](LICENSE)
 
 A simple coming soon page, built using [create-react-app](https://github.com/facebook/create-react-app).
-
-<p align="center">
-  <img src="./docs/screenshot.png" alt="Coming soon page" width="738">
-</p>
 
 **Note:** This is only a cooming soon page for a future project".
 
@@ -28,9 +22,3 @@ A simple coming soon page, built using [create-react-app](https://github.com/fac
 
 1. `npm run build` to build the app
 2. Copy the contents of the `build` folder and serve it with your own server
-
-## Thanks
-
-Uses:
- - [simple-icons](https://github.com/simple-icons/simple-icons) released under the [CC0-1.0](https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md) license.
- - [IBM Plex](https://github.com/IBM/plex) released under the [OFL-1.1](https://github.com/IBM/plex/blob/master/LICENSE.txt) license.
