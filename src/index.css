@@ -3,6 +3,8 @@
 }
 
 body {
+  box-shadow: 0px 35px 70px 0px rgba(4, 150, 210, 0.5), 0px 30px 40px -10px rgba(4, 130, 190, 0.5);
+  background: linear-gradient(180deg, rgba(4, 150, 210, 1) 0%, rgba(4, 130, 190, 1) 100%);
   font-family: "IBM Plex Sans", sans-serif;
 }
 

@@ -1,8 +1,7 @@
 import React from 'react';
-// import { ReactComponent as IconFacebook } from './assets/icons/facebook.svg';
-// import { ReactComponent as IconTwitter } from './assets/icons/twitter.svg';
 import { ReactComponent as IconGithub } from './assets/icons/github.svg';
 import "./App.css";
+import LogoAi from './assets/image/logo-ai.png';
 
 class App extends React.Component {
   render = () => {
@@ -13,20 +12,18 @@ class App extends React.Component {
             <a href="https://www.criptostable.com/">CRIPTOSTABLE.COM</a>
           </div>
           <div className="social">
-            {/* <a href="https://facebook.com" title="Facebook" target="_blank" rel="noopener noreferrer">
-              <IconFacebook className="icon" />
-            </a>
-            <a href="https://twitter.com" title="Twitter" target="_blank" rel="noopener noreferrer">
-              <IconTwitter className="icon" />
-            </a> */}
             <a href="https://github.com/andresgmg" title="GitHub" target="_blank" rel="noopener noreferrer">
-              <IconGithub className="icon" />
+              View the repo here <IconGithub className="icon" />
             </a>
           </div>
         </div>
         <div className="content">
+          <a href="https://www.criptostable.com" title="GitHub" target="_blank" rel="noopener noreferrer">
+            <img src={LogoAi} alt="Logo" width={100} height={100} />
+          </a>
           <div className="title-holder">
             <h1>Get ready for the stable change.</h1>
+            <h3>Also this domain is on sale for a nice crypto-project.</h3>
             <p>Website coming soon. Please check back to know more. Shoot us an email if you're curious.</p>
           </div>
           <a href="mailto:andres.gmg1997@gmail.com">
