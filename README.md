@@ -21,12 +21,12 @@ A simple coming soon page, built using [create-react-app](https://github.com/fac
 
 ### Running locally
 
-1. `npm run dev` to start the hot-reloading server
+1. `npm start` to start the hot-reloading server
 2. open `http://localhost:3000` on your browser
 
 ### Building
 
-1. `npm build` to build the app
+1. `npm run build` to build the app
 2. Copy the contents of the `build` folder and serve it with your own server
 
 ## Thanks
